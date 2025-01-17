@@ -1,0 +1,1 @@
+I have created a simple book recommendation system that suggests items to users based on their preferences. I have used techniques like collaborative filtering and content-based filtering to recommend books to users.
